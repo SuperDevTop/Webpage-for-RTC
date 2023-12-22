@@ -19,23 +19,22 @@ export default function Privacy() {
 
       <p>
         If you choose to use the Service, then you agree to the collection and
-        use of information in relation to this policy. The Personal Information
-        that we collect is used for providing and improving the Service. We will
-        not use or share your information with anyone except as described in
-        this Privacy Policy.
+        use of information in relation to this policy. We are not collecting any
+        informations from users so we will not use or share your information
+        with anyone.
       </p>
 
       <h2>Information Collection and Use</h2>
       <p>
-        For a better experience, while using our Service, we may require you to
-        provide us with certain personally identifiable information, including
-        but not limited to name, game score, generated data. The information
-        that we request will be retained on your device and is not collected by
-        us in any way.
+        For a better experience, while using our Service, we don't require you
+        to provide us with certain personally identifiable information,
+        including but not limited to name, game score, generated data. We are
+        not requesting any informations from yours and information is not
+        collected by us in any way.
       </p>
       <p>
-        The app does use third party services that may collect information used
-        to identify you.
+        The app does not use third party services that may collect information
+        used to identify you.
       </p>
 
       <h2>Log Data</h2>
@@ -66,17 +65,13 @@ export default function Privacy() {
       </p>
 
       <h2>Service Providers</h2>
-      <p>
-        We may employ third-party companies and individuals due to the following
-        reasons:
-      </p>
 
       <p>
         To facilitate our Service; To provide the Service on our behalf; To
         perform Service-related services; or To assist us in analysing how our
         Service is used. We want to inform users of this Service that these
-        third parties have access to your Personal Information. The reason is to
-        perform the tasks assigned to them on our behalf. However, they are
+        third parties can't access to your Personal Information. The reason is
+        to perform the tasks assigned to them on our behalf. And they are
         obligated not to disclose or use the information for any other purpose.
       </p>
 
@@ -91,8 +86,7 @@ export default function Privacy() {
 
       <h2>Links to Other Sites</h2>
       <p>
-        This Service may contain links to other sites. If you click on a
-        third-party link, you will be directed to that site. Note that these
+        This Service doesn't contain links to other sites. Note that these
         external sites are not operated by us. Therefore, we strongly advise you
         to review the Privacy Policy of these websites. We have no control over
         and assume no responsibility for the content, privacy policies, or
