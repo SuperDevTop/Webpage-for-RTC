@@ -6,15 +6,12 @@ export default function Privacy() {
       </center>
       <h2>Privacy and terms of use</h2>
       <p>
-        Your privacy is very important to us, and we take it seriously. Please
-        read our Privacy Policy below and let us know if you have any questions
-        or other feedback regarding it.
+        Your privacy is very important to us, and we take it seriously. Please read our Privacy Policy below and let us know if you have any questions or other feedback regarding it.
       </p>
 
       <h2>Privacy policy</h2>
       <p>
-        This page is used to inform visitors regarding our policies with the
-        collection, use, and disclosure of Personal Information.
+        This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information.
       </p>
 
       <p>
@@ -26,26 +23,23 @@ export default function Privacy() {
 
       <h2>Information Collection and Use</h2>
       <p>
-        For a better experience, while using our Service, we don't require you
-        to provide us with certain personally identifiable information,
-        including but not limited to name, game score, generated data. We are
-        not requesting any informations from yours and information is not
-        collected by us in any way.
+        For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to name, game score, generated data. The information that we request will be retained on your device and is not collected by us in any way.
+        The app does use third party services that may collect information used to identify you. Privacy policies of third party services are below:
       </p>
       <p>
         The app does not use third party services that may collect information
         used to identify you.
       </p>
+      <p>
+      https://play.google.com/intl/en-US_us/about/play-terms/index.html
+      </p>
+      <p>
+      https://unity.com/legal/game-player-and-app-user-privacy-policy
+      </p>
 
       <h2>Log Data</h2>
       <p>
-        We want to inform you that whenever you use this service, in a case of
-        an error in the app we collect data and information (through third party
-        products) on your phone called Log Data. This Log Data may include
-        information such as your device Internet Protocol (’IP’) address, device
-        name, operating system version, the configuration of the app when
-        utilizing this service, the time and date of your use of the service,
-        and other statistics.
+        We want to inform you that whenever you use this service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (’IP’) address, device name, operating system version, the configuration of the app when utilizing this service, the time and date of your use of the service, and other statistics.
       </p>
 
       <h2>Cookies</h2>
