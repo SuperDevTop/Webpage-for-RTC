@@ -4,31 +4,20 @@ export default function Privacy() {
       <center>
         <h1>Privacy and Policy</h1>
       </center>
-      <h2>Privacy and terms of use</h2>
+      <h2>BetaGames Ltd ("us", "we" or "our") operates the RTC mobile game (the "Service")</h2>
       <p>
-        Your privacy is very important to us, and we take it seriously. Please read our Privacy Policy below and let us know if you have any questions or other feedback regarding it.
+        This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
       </p>
-
-      <h2>Privacy policy</h2>
       <p>
-        This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information.
-      </p>
-
-      <p>
-        If you choose to use the Service, then you agree to the collection and
-        use of information in relation to this policy. We are not collecting any
-        informations from users so we will not use or share your information
-        with anyone.
+        Our Privacy Policy for RTC is created with the help of the Free Privacy Policy Generator. We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
       </p>
 
       <h2>Information Collection and Use</h2>
       <p>
-        For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to name, game score, generated data. The information that we request will be retained on your device and is not collected by us in any way.
-        The app does use third party services that may collect information used to identify you. Privacy policies of third party services are below:
+        We collect several different types of information for various purposes to provide and improve our Service to you. Types of Data Collected Personal Data While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data").
       </p>
       <p>
-        The app does not use third party services that may collect information
-        used to identify you.
+        Personally identifiable information may include, but is not limited to.
       </p>
       <p>
       https://play.google.com/intl/en-US_us/about/play-terms/index.html
